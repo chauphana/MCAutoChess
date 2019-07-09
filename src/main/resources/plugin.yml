@@ -1,0 +1,10 @@
+name: MCAutoChess
+version: 1.0
+main: io.github.chauphana.mcautochess.Main
+description: Hey!
+api-version: 1.14
+
+commands:
+  registerboard:
+    description: Register the board for the game...
+    usage: /registerboard dsafasdasd
